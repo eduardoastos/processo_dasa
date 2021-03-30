@@ -1,0 +1,4 @@
+
+#creating user Data
+firstName: FFaker::NameBR.first_name
+lastName: FFaker::NameBR.last_name
