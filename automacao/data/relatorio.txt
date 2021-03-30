@@ -1,0 +1,56 @@
+
+Cenario: VALIDAR ELEMENTOS DA PAGINA TODO	 
+Data de Execução: 30-03-2021 14:03:37	 
+Status: Teste finalizado com sucesso.	 
+Erro: 	 
+-------------------------------------------------------------------	 
+-------------------------------------------------------------------	 
+
+
+Cenario: VALIDAR A LIMPEZA DO CAMPO DE TEXTO NA PAGINA TODO	 
+Data de Execução: 30-03-2021 14:03:47	 
+Status: Teste finalizado com sucesso.	 
+Erro: 	 
+-------------------------------------------------------------------	 
+-------------------------------------------------------------------	 
+
+
+Cenario: VALIDAR A EXISTENCIA DE ATIVIDADE NA LISTA NA PAGINA TODO	 
+Data de Execução: 30-03-2021 14:03:57	 
+Status: Teste finalizado com sucesso.	 
+Erro: 	 
+-------------------------------------------------------------------	 
+-------------------------------------------------------------------	 
+
+
+Cenario: VALIDAR SE A ATIVIDADE FOI EXCLUIDA DA PAGINA TODO	 
+Data de Execução: 30-03-2021 14:03:07	 
+Status: Teste finalizado com sucesso.	 
+Erro: 	 
+-------------------------------------------------------------------	 
+-------------------------------------------------------------------	 
+
+
+Cenario: VALIDAR REMOCAO DE ATIVIDADE NA LISTA DA PAGINA TODO	 
+Data de Execução: 30-03-2021 14:03:18	 
+Status: Teste finalizado com sucesso.	 
+Erro: 	 
+-------------------------------------------------------------------	 
+-------------------------------------------------------------------	 
+
+
+Cenario: VALIDAR PESQUISA NA PAGINA DONE	 
+Data de Execução: 30-03-2021 14:03:35	 
+Status: Teste finalizado com sucesso.	 
+Erro: 	 
+-------------------------------------------------------------------	 
+-------------------------------------------------------------------	 
+
+
+Cenario: VALIDAR EXCLUSAO DE ATIVIDADE NA PAGINA DONE	 
+Data de Execução: 30-03-2021 14:03:03	 
+Status: Teste finalizado SEM sucesso.	 
+Erro: Atividade nao foi excluida	 
+-------------------------------------------------------------------	 
+-------------------------------------------------------------------	 
+
